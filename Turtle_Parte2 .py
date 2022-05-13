@@ -8,7 +8,7 @@ from turtle import *
 pen()
 
 #Se le asigna la velocidad de turtle a 1, para que cuando se realice el gráfico se pueda apreciar
-speed(60)
+speed(2)
 
 #Se realizan movimientos para tener suficiente espacio para dibujar la figura. El pincel se levanta.
 up()
